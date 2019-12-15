@@ -1,0 +1,20 @@
+main {
+	position: relative;
+	top: 65px;
+}
+
+.map{
+	width: 1110px;
+	height: 400px;
+}
+
+.map_user{
+	width: 700px;
+	height: 400px;
+}
+
+.pictures{
+	height: 500px;
+}
+
+
